@@ -21,10 +21,3 @@ Aqui estão algumas das ferramentas e tecnologias com as quais eu trabalho:
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 | | | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas de Gustavo no GitHub](https://github-readme-stats.vercel.app/api?username=sangust&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangust&layout=compact&langs_count=7&theme=dracula)
