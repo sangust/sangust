@@ -19,9 +19,9 @@
 
 ### 🚀 Sobre Mim
 
-[cite_start]Sou estudante de **Análise e Desenvolvimento de Sistemas** (UniCEUB) e atuo profissionalmente na intersecção entre **Engenharia de Software** e **Engenharia de Dados**[cite: 28]. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (UniCEUB) e atuo profissionalmente na intersecção entre **Engenharia de Software** e **Engenharia de Dados**. 
 
-[cite_start]Atualmente, meu foco é desenvolver arquiteturas escaláveis utilizando **Python**, criando desde APIs REST performáticas até pipelines de dados automatizados (ETL/ELT) e integrações com **LLMs (Gemini API)** para resolver problemas complexos de negócio[cite: 3, 5].
+Atualmente, meu foco é desenvolver arquiteturas escaláveis utilizando **Python**, criando desde APIs REST performáticas até pipelines de dados automatizados (ETL/ELT) e integrações com **LLMs (Gemini API)** para resolver problemas complexos de negócio.
 
 - 🔭 **Atualmente trabalhando em:** Automação de processos com IA e Monitoramento de Dados (Web Scraping).
 - 🌱 **Aprendendo:** Aprofundamento em Google Cloud Platform (GCP) e Arquitetura de Big Data.
@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack & Ferramentas
 
-[cite_start]Minha caixa de ferramentas técnica, baseada em projetos reais e estudos contínuos[cite: 8, 9, 10, 11]:
+Minha caixa de ferramentas técnica, baseada em projetos reais e estudos contínuos:
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -52,10 +52,10 @@
 - **Tech:** `Poetry`, `Pydantic`, `Requests`, `SQL`.
 
 #### 📄 DocuFlow Inteligente (HumanPower)
-[cite_start]*Sistema de gestão e classificação de documentos com IA Generativa.* [cite: 15, 16]
+*Sistema de gestão e classificação de documentos com IA Generativa.* 
 - **Desafio:** Reduzir o tempo de processamento manual de fichários físicos digitalizados.
 - **Solução:** Aplicação Flask integrada com **Google Gemini API** para classificação semântica de documentos e **OCR** para extração de texto.
-- [cite_start]**Resultado:** Redução do tempo de processamento de **1 hora para ~20 minutos** por fichário[cite: 19].
+- **Resultado:** Redução do tempo de processamento de **1 hora para ~20 minutos** por fichário.
 
 ---
 
