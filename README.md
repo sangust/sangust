@@ -1,34 +1,26 @@
-# Olá, sou Gustavo Santana 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header" />
+</div>
 
-FullStack Engineer focado no desenvolvimento de APIs de alta performance, resiliência de microsserviços e engenharia de agentes de IA para produção.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=FullStack+Engineer;AI+Agents+Developer" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-##  Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,vue,fastapi,django,postgres,redis,oracle" alt="Tech Stack Core" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,githubactions,terraform,databricks" alt="Tech Stack Infra" />
+</div>
 
-* **Backend & IA:** Python (FastAPI, Django), Celery, LangChain, LangGraph, vLLM, llama.cpp, pgvector.
-* **Infra & Cloud:** Docker, AWS, GCP, Coolify, Redis, PostgreSQL, Linux, GitHub Actions.
-* **Frontend:** React, TypeScript, TailwindCSS.
+<br/><br/>
 
----
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sangust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sangust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" />
+</div>
 
-##  Projetos em Destaque
-
-###  AfiliBot Core — IA & Busca Semântica
-> Ecossistema distribuído em FastAPI e Celery para automação conversacional e recomendação por similaridade de vetores.
-
-* **Busca Vetorial:** Similaridade de cosseno em sub-milissegundos usando **PostgreSQL + pgvector** e índice **HNSW** para vetores de 768 dimensões (`nomic-embed-text`).
-* **AfiliBotDM:** Microsserviço de mensageria que processa webhooks da **Evolution API (WhatsApp)** e gerencia a memória contextual/RAG da LLM (`llama3`) via **Redis** com `ltrim` e TTL.
-
-###  Montseguro Core — Microsserviços & Auditoria de IA
-> Migração estratégica de monolito corporativo de seguros para arquitetura distribuída e tolerante a falhas.
-
-* **Shadow API Core:** Desenvolvida via engenharia reversa para integrar o CRM Moskit, mitigando gargalos estritos de *rate limit*.
-* **Auditoria de Vendas:** Pipeline de inteligência comercial com OpenAI (GPT-4o-mini) e arquitetura de *fallback* automático no **Groq** para controle de custos e alta disponibilidade.
-
----
-
-##  Contato
-
-* **LinkedIn:** [/in/zssantana](https://linkedin.com/in/zssantana)
-* **Email:** [gustavosantana2006@gmail.com](mailto:gustavosantana2006@gmail.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" />
+</div>
