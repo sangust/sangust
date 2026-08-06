@@ -18,7 +18,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sangust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sangust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" />
 </div>
 
 <div align="center">
