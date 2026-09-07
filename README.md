@@ -17,7 +17,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sangust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sangust&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="GitHub Stats" />
 </div>
 
 <div align="center">
